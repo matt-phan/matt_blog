@@ -4,9 +4,12 @@ title:  "Regression function"
 categories: jekyll update
 ---
 
-Here, I wrote a function to run bivariate and multivariate linear regression using OLS, visualise the regressions in both 2D and 3D and add the option to plot a coefficient plot.
+The LSE Department of Economics organised a 'Python 4 Economics' week, where undergraduate economists use Python to address economic issues.
 
-This is a post in progress. More will be added later :)
+My team was tasked with exploring questions about inequality on COVID-19 outcomes. This involved us plotting bivariate and multivariate regressions between multiple features. 
+To automate the boilerplate code, I wrote a function to run bivariate and multivariate linear regression using OLS, visualise the regressions in both 2D and 3D and add the option to plot a coefficient plot.
+
+This is a post in progress. More will be added later.
 
 {% highlight python %}
 # Define a function to perform OLS bivariate and multivariate linear regression
