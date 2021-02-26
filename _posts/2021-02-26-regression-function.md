@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Regression function"
-date:   2021-02-18 16:39:48 +0000
 categories: jekyll update
 ---
 
